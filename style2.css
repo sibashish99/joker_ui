@@ -210,7 +210,7 @@ body{
 	margin: 0;
 	letter-spacing: -7px;
 	animation: frombottom 1s ease-in-out forwards;
-	animation-delay: 1.9s;
+	animation-delay: 5s;
 	opacity: 0;
 }
 .differname h3{
