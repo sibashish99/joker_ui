@@ -2,7 +2,7 @@
 body{
 	width: 100%;
 	height: 100vh;
-	background: url(joker-background.jpg);
+	background:url(joker-background.jpg);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -141,7 +141,7 @@ body{
 	transition: .5s;
 	animation: revealright 1s ease-in-out forwards;
 	opacity: 0;
-	animation-delay: 1.1s;
+	animation-delay: 1.2s;
 }
 @keyframes revealright{
 	0%{
